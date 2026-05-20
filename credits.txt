@@ -1,0 +1,2 @@
+- Used AI to help debug and give an outline to make the programming easier.
+- Used online references to help building the functions.
